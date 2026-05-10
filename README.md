@@ -187,17 +187,17 @@ python Task4_Churn_Prediction/task4_churn_prediction.py
 
 ## 📈 Sample Visualizations
 
-| Churn Rate                             | Demographics                             |
-| -------------------------------------- | ---------------------------------------- |
-| ![fig1](Task2_EDA/fig1_churn_rate.png) | ![fig2](Task2_EDA/fig2_demographics.png) |
+| Churn Rate                                   | Demographics                                     |
+| -------------------------------------------- | ------------------------------------------------ |
+| ![Churn Rate](Task2_EDA/fig1_churn_rate.png) | ![Demographics](Task2_EDA/fig2_demographics.png) |
 
-| Tenure vs Churn                          | Contract & Payment                           |
-| ---------------------------------------- | -------------------------------------------- |
-| ![fig3](Task2_EDA/fig3_tenure_churn.png) | ![fig4](Task2_EDA/fig4_contract_payment.png) |
+| Tenure vs Churn                                     | Contract & Payment                                         |
+| --------------------------------------------------- | ---------------------------------------------------------- |
+| ![Tenure vs Churn](Task2_EDA/fig3_tenure_churn.png) | ![Contract & Payment](Task2_EDA/fig4_contract_payment.png) |
 
-| Segmentation                                            | Model Comparison                                          |
-| ------------------------------------------------------- | --------------------------------------------------------- |
-| ![fig5](Task3_Segmentation/fig5_segmentation_churn.png) | ![fig7](Task4_Churn_Prediction/fig7_model_comparison.png) |
+| Segmentation                                                    | Model Comparison                                                      |
+| --------------------------------------------------------------- | --------------------------------------------------------------------- |
+| ![Segmentation](Task3_Segmentation/fig5_segmentation_churn.png) | ![Model Comparison](Task4_Churn_Prediction/fig7_model_comparison.png) |
 
 ---
 
