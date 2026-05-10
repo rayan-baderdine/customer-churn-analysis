@@ -186,44 +186,41 @@ python Task4_Churn_Prediction/task4_churn_prediction.py
 ---
 
 ## 📈 Sample Visualizations
-## 📊 Sample Visualizations
-
 **Churn Rate**
 
-![Churn Rate](Task2_EDA/fig1_churn_rate.png)
+![Churn Rate](task2_EDA/fig1_churn_rate.png)
 
 **Demographics**
 
-![Demographics](Task2_EDA/fig2_demographics.png)
+![Demographics](task2_EDA/fig2_demographics.png)
 
 **Tenure vs Churn**
 
-![Tenure vs Churn](Task2_EDA/fig3_tenure_churn.png)
+![Tenure vs Churn](task2_EDA/fig3_tenure_churn.png)
 
 **Contract & Payment**
 
-![Contract & Payment](Task2_EDA/fig4_contract_payment.png)
+![Contract & Payment](task2_EDA/fig4_contract_payment.png)
 
 **Customer Segmentation**
 
-![Segmentation](Task3_Segmentation/fig5_segmentation_churn.png)
+![Segmentation](task3_Segmentation/fig5_segmentation_churn.png)
 
 **High-Value At-Risk**
 
-![High Value At-Risk](Task3_Segmentation/fig6_high_value_atrisk.png)
+![High Value At-Risk](task3_Segmentation/fig6_high_value_atrisk.png)
 
 **Model Comparison**
 
-![Model Comparison](Task4_Churn_Prediction/fig7_model_comparison.png)
+![Model Comparison](task4_churn_prediction/fig7_model_comparison.png)
 
 **Confusion Matrices**
 
-![Confusion Matrices](Task4_Churn_Prediction/fig8_confusion_matrices.png)
+![Confusion Matrices](task4_churn_prediction/fig8_confusion_matrices.png)
 
 **Feature Importances**
 
-![Feature Importances](Task4_Churn_Prediction/fig9_feature_importances.png)
----
+![Feature Importances](task4_churn_prediction/fig9_feature_importances.png)
 
 ## 🏢 Internship
 
