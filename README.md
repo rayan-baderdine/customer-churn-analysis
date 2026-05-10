@@ -162,7 +162,7 @@ Three machine learning models were trained, tuned, and evaluated:
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/customer-churn-analysis.git
+git clone https://github.com/rayan-baderdine/customer-churn-analysis.git
 cd customer-churn-analysis
 ```
 
